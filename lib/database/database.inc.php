@@ -1,4 +1,4 @@
-<?
+<?php
 
 	/*
 		Basic version with minimum functionalities

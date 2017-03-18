@@ -1,4 +1,5 @@
-<?
+<?php
+
 		
   	class dbsource_mysql extends dbsource
 	{

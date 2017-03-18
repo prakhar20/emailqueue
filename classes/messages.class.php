@@ -1,4 +1,4 @@
-<?
+<?php
 
 	class messages {
 		function get_list() {

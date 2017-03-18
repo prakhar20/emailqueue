@@ -1,4 +1,4 @@
-<?
+<?php
 
 	class dbsource_mysqli extends dbsource
 	{

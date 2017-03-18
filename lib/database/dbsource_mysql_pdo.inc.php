@@ -1,4 +1,4 @@
-<?
+<?php
 
 	class dbsource_mysql_pdo extends dbsource
 	{

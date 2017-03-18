@@ -1,4 +1,4 @@
-<?
+<?php
 
 	class home {
 		function getinfo() {

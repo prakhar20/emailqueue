@@ -1,4 +1,4 @@
-<?
+<?php
 
 	define("VERSION", "3.1b");
 	define("OFFICIAL_PAGE_URL", "https://github.com/tin-cat/emailqueue");

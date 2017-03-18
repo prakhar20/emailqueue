@@ -1,4 +1,4 @@
-<?
+<?php
 
 	class logger {
 		var $filename_delivery;

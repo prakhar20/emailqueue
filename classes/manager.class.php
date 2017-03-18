@@ -1,4 +1,4 @@
-<?
+<?php
 
 	class manager {
 		function run() {

@@ -1,4 +1,4 @@
-<?
+<?php
 	class utils {
 		function getglobal($var) {
 			if(isset($GLOBALS[$var]))

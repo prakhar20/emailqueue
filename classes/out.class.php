@@ -1,4 +1,4 @@
-<?
+<?php
 
 	class out {
 		var $data;
